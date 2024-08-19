@@ -17,8 +17,8 @@ Opciones de etiquetado que ofrece markdown:
 - Listas: Se utilizan guiones o astericos seguidos de un espacio, asi como se utilizan estas listas.
 - Enlaces: Simplemente se copia el texto del enlace. www.google.com
 - Enfasis: Para cursiva se utiliza un asterisco al inicio y final de oracion. *text* y para negritas se utilizan dos asteriscos. **text**
-- Codigo: Para resaltar una linea de codigo se utlizan las comillas invertidas `. `console.log('hello world')`
-- Imagenes: la sintaxis es la siguiente: ![texto_alternativo](ubicacion_de_la_imagen){width=width height=height}
+- Codigo: Para resaltar una linea de codigo se utlizan las comillas invertidas. `console.log('hello world')`
+- Imagenes: Se pone un signo de exclamacion al inicio, seguido de el alt text de la imagen y luego seguido la ubicacion de la imagen. finalmente pones width='ancho en pixeles' y height='altura en pixeles'         ![texto_alternativo](ubicacion_de_la_imagen){width=width height=height}
 
 
 Comnados en Git y como usarlos:
